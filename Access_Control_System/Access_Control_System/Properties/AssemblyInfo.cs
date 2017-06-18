@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 組件的一般資訊是由下列的屬性集控制。
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
-[assembly: AssemblyTitle("RFID_Zigbee")]
+[assembly: AssemblyTitle("Access_Control_System")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RFID_Zigbee")]
+[assembly: AssemblyProduct("Access_Control_System")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("8e1be6e0-df9d-4867-bdfc-cca86d6f8fdb")]
+[assembly: Guid("80ccb908-c892-4558-877d-92d434659b94")]
 
 // 組件的版本資訊是由下列四項值構成: 
 //
